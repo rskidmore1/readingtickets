@@ -27,4 +27,6 @@ An approach to reading tickets.
 - Are next steps correct?
 
 
-Tickets will always be clear and thoughts finished, but there will  be enough information  to start in a  direction. Taking notes and starting is  the best way to answer  basic quesiton  in order  to  make good ones. 
+----------------------------------------------
+Tickets will not always be clear and thoughts finished, but there will  be enough information  to start in a  direction. Taking notes and starting is  the best way to answer  basic quesiton  in order  to  make good ones. 
+Part of the job of software engineering is to gather details and fill in the blanks with coding that solves the problem event when the details are fuzzy
