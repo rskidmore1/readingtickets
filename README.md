@@ -23,10 +23,12 @@ An approach to reading tickets.
 - Do  things work how I think they work?
 
 #### 5. Code the rest of the solution 
+- Re-read the ticket and make updates
+- Make my own list of tasks in a word doc and follow that
 #### 6. Check in once a day with my progress and next steps 
 - Are next steps correct?
 
 
 ----------------------------------------------
 Tickets will not always be clear and thoughts finished, but there will  be enough information  to start in a  direction. Taking notes and starting is  the best way to answer  basic quesiton  in order  to  make good ones. 
-Part of the job of software engineering is to gather details and fill in the blanks with coding that solves the problem event when the details are fuzzy
+Part of the job of software engineering is to gather details and fill in the blanks with coding that solves the problem even when the details are fuzzy and the tickets are not well written. The senior dev or product owner will know the next step when asked the right question. Or  the software engineer will  know that their solution  is the right one because there is not detailed intention from the ticket writer. 
