@@ -1,6 +1,11 @@
 # readingtickets
 An approach to reading tickets.
 
+#### Preticket.
+1. Make out line of details 
+2. Make summary of my understanding ign of details 
+3. Ask owner about every possible assumption
+4. Write a very detailed and bullet pointed ticket 
 
 #### 1. Reading the ticket slowly and write it out 
 - Read it at least 3 times out loud 
