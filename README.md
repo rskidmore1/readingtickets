@@ -11,6 +11,7 @@ An approach to reading tickets.
 - Read it at least 3 times out loud 
 - Take notes about steps, any  and all thoughts, missing information, everthing 
 - Make a list of steps and takes based on the information there and reasonable extrapolation 
+- Ask Owner if these are still correct
 
 #### 2. Explore
 - Read code where is will go
